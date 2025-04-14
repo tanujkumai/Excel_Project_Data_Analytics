@@ -3,8 +3,15 @@
 
 ## Introduction
 
-As a former job seeker, I’ve always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
+As an aspiring data professional, I'm actively exploring the data science job market to better understand what skills are in demand and how they align with compensation. This project demonstrates my ability to analyze real-world data using advanced Excel tools—essential for roles in data analysis and business intelligence.
 
+## Purpose
+
+As an aspiring data analyst currently seeking opportunities, I created this project to:
+- Understand what skills are most valued in the data industry
+- Analyze how different roles and locations affect salary
+- Demonstrate my technical and analytical skills using Excel  
+  
 ### Questions to Analyze
 
 To understand the data science job market, I asked the following:
@@ -176,6 +183,4 @@ It includes detailed information on:
 
 ## Conclusion
 
-As a data enthusiast and former job seeker, I embarked on this Excel-based project to uncover valuable insights about the data science job market. Using a dataset I've curated from real-world job postings, I analyzed job titles, salaries, locations, and essential skills. By leveraging Excel features like Power Query, PivotTables, DAX, and charts, I discovered key correlations between multiple skills and higher salaries, particularly in Python, SQL, and cloud technologies. 
-
-I hope this project serves as a practical guide for data professionals and provides an overview of the skills needed for higher-paying roles.
+This project showcases my end-to-end ability to analyze real-world job data using Excel. From cleaning and modeling to creating insightful visualizations and business recommendations, it reflects my readiness for data-driven roles. I'm excited to continue growing in this field and contribute to data-informed decision making in my next role.  
