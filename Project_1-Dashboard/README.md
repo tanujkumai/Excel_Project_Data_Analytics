@@ -1,3 +1,33 @@
+# 📊 Excel Salary Dashboard
+
+## 🔍 Summary
+
+As an aspiring data analyst currently seeking opportunities, I built this interactive Excel salary dashboard to explore job market trends and demonstrate my Excel and analytical skills.
+
+This project analyzes real-world data science job postings, focusing on salary insights by job title, country, and work type. It showcases my ability to turn raw data into a dynamic, user-friendly dashboard using advanced Excel techniques.
+
+---
+
+## 🎯 Purpose
+
+The purpose of this project is to:
+
+- Explore salary trends for data-related job roles across countries  
+- Help job seekers assess fair compensation based on location and job type  
+- Demonstrate my technical skills with Excel dashboards and formulas  
+- Showcase real-world business intelligence capabilities in a self-contained Excel file  
+
+---
+
+## 🧰 Excel Skills Demonstrated
+
+- 📉 **Charts:** Bar chart, Map chart, and dynamic visualizations  
+- 🧮 **Formulas & Functions:** `MEDIAN`, `IF`, `SEARCH`, `FILTER`, etc.  
+- ❎ **Data Validation:** Dynamic dropdown filters to improve usability  
+- 📊 **Interactive Dashboard Design:** User controls and real-time data updates  
+
+---  
+
 # Excel Salary Dashboard
 
 ![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
